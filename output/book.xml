@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <title>Book Title</title>
+    <author>
+        <firstname>Clinton</firstname>
+        <surname>Judy</surname>
+        <email>&lt;clinton@j-udy.com&gt;</email>
+    </author>
+    <authorinitials>CJ</authorinitials>
+</articleinfo>
+<section id="_table_of_contents">
+<title>Table of Contents</title>
+</section>
+<section id="_the_second_chapter">
+<title>The second chapter</title>
+<simpara>This is a second chapter.</simpara>
+<simpara>For more information and a fairly nice Asciidoc cheat sheet, see:</simpara>
+<simpara><ulink url="http://powerman.name/doc/asciidoc">http://powerman.name/doc/asciidoc</ulink></simpara>
+</section>
+</article>
